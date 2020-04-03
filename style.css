@@ -1,0 +1,31 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+    font-size: 56px;
+    margin: 30px;
+}
+
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-dream-startup-annual-meeting-invitation-letter-company-annual-meeting-background-image_277261.jpg");
+  color: #ffffff;
+  background-size: cover;
+}
+p {
+font-size: 20px;
+}
+
+.hero a {
+	color: #00FFAA;
+    font-size: 25px;
+    text-decoration: none;
+}
+
